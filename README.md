@@ -21,5 +21,6 @@ Forum: [discourse.source-robotics.com](http://discourse.source-robotics.com/)<br
 ![Discourse users](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscourse.source-robotics.com%2F) ![Discourse Posts](https://img.shields.io/discourse/posts?server=https%3A%2F%2Fdiscourse.source-robotics.com%2F)![Discourse topics](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fdiscourse.source-robotics.com%2F) 
 
 Discord server: [Join](https://discord.gg/prjUvjmGpZ)<br>
-[![](https://dcbadge.vercel.app/api/server/prjUvjmGpZ)](https://discord.gg/prjUvjmGpZ)
+[![](https://dcbadge.vercel.app/api/server/prjUvjmGpZ)](https://discord.gg/prjUvjmGpZ)<br>
+[![Discord](https://img.shields.io/discord/1072498136284667955)](https://discord.gg/prjUvjmGpZ)
 
