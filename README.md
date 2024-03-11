@@ -1,9 +1,15 @@
 # Welcome to Source Robotics
 
+Our main mission is to bridge the gap between robotic education, research, and industry with accessible and open-source solutions.
+
 Our main products are the [Spectral Micro BLDC controller](https://source-robotics.com/products/spectral-micro-bldc-controller), the [PAROL6 control board](https://source-robotics.com/products/parol6-control-board), and the [SSG-48 adaptive electric gripper](https://source-robotics.com/products/compliant-gripper).
+
+Browse around our GitHub where all code we use and produce is **Open-Source**.
 
 For any questions, send us a mail at info@source-robotics.com, or use the [contact form](https://source-robotics.com/pages/contact).
 
+ Our [official website](https://source-robotics.com/) and [blog](https://source-robotics.com/blogs/blog)
+ 
 GitHub stats:<br>
 ![GitHub stars](https://img.shields.io/github/stars/PCrnjak?style=social) ![GitHub followers](https://img.shields.io/github/followers/PCrnjak?style=social)
 
