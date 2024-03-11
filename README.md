@@ -1,5 +1,8 @@
-![badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# Welcome to Source Robotics
 
+Our main products are the [Spectral Micro BLDC controller](https://source-robotics.com/products/spectral-micro-bldc-controller), the [PAROL6 control board](https://source-robotics.com/products/parol6-control-board), and the [SSG-48 adaptive electric gripper](https://source-robotics.com/products/compliant-gripper).
+
+For any questions, send us a mail at info@source-robotics.com, or use the [contact form](https://source-robotics.com/pages/contact).
 
 GitHub stats:<br>
 ![GitHub stars](https://img.shields.io/github/stars/PCrnjak?style=social) ![GitHub followers](https://img.shields.io/github/followers/PCrnjak?style=social)
