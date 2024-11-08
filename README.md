@@ -1,7 +1,7 @@
 # Welcome to Source Robotics
 
 Our main mission is to bridge the gap between robotic education, research, and industry with accessible and open-source solutions.<br>
-We accomplish this by developing high-performance robotics hardware such as robotic arms, motor controllers, and grippers. Additionally, we actively support and build communities and raise awareness about robotics through engaging content and examples on social media.
+We accomplish this by developing high-performance robotics hardware such as robotic arms, motor controllers, and grippers. 
 
 Our main products are the [Spectral Micro BLDC controller](https://source-robotics.com/products/spectral-micro-bldc-controller), the [PAROL6 control board](https://source-robotics.com/products/parol6-control-board), and the [SSG-48 adaptive electric gripper](https://source-robotics.com/products/compliant-gripper).
 
