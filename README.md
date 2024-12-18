@@ -21,3 +21,11 @@ Discord server: [Join](https://discord.gg/prjUvjmGpZ)<br>
 [![](https://dcbadge.vercel.app/api/server/prjUvjmGpZ)](https://discord.gg/prjUvjmGpZ)<br>
 [![Discord](https://img.shields.io/discord/1072498136284667955)](https://discord.gg/prjUvjmGpZ)
 
+<a href="https://github.com/PCrnjak/PAROL6-Desktop-robot-arm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&theme=dark" />
+</a>
+<a href="https://github.com/PCrnjak/Spectral-Micro-BLDC-controller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PCrnjak&repo=Spectral-Micro-BLDC-controller&theme=dark" />
+</a>
+
+
