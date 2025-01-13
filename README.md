@@ -17,7 +17,8 @@ GitHub stats:<br>
 Youtube channel: [youtube.com/@source-robotics](https://www.youtube.com/@source-robotics)<br>
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp3sDRwVkbm7b2M-2qwf5aQ) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp3sDRwVkbm7b2M-2qwf5aQ)
 
-Discord server: [Join](https://discord.gg/prjUvjmGpZ)<br>
+
+Discord server: [Join](https://discord.gg/prjUvjmGpZ)   Forum: [Join](https://forum.source-robotics.com/)<br> 
 [![](https://dcbadge.vercel.app/api/server/prjUvjmGpZ)](https://discord.gg/prjUvjmGpZ)<br>
 [![Discord](https://img.shields.io/discord/1072498136284667955)](https://discord.gg/prjUvjmGpZ)
 
