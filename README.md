@@ -20,7 +20,7 @@ Youtube channel: [youtube.com/@source-robotics](https://www.youtube.com/@source-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/source_robotics/) 
 ![X Follow](https://img.shields.io/twitter/follow/SourceRobotics?style=social)
 
-<a href="http://discord.gg/prjUvjmGpZ"><img src="https://img.shields.io/discord/1356345436927168552?logo=discord&color=blue" alt="Discord"></a>
+<a href="http://discord.gg/prjUvjmGpZ"><img src="https://img.shields.io/discord/1072498136284667955?logo=discord&color=blue" alt="Discord"></a>
 Forum: [Join](https://forum.source-robotics.com/)<br> 
 
 <a href="https://www.linkedin.com/company/source-robotics/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a>
