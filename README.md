@@ -25,10 +25,11 @@ Forum: [Join](https://forum.source-robotics.com/)<br>
 
 <a href="https://www.linkedin.com/company/source-robotics/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a>
 
-<a href="https://github.com/PCrnjak/PAROL6-Desktop-robot-arm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&theme=transparent" />
-</a>
-
 <a href="https://github.com/PCrnjak/Spectral-Micro-BLDC-controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PCrnjak&repo=Spectral-Micro-BLDC-controller&theme=transparent&cache_bust=12345" />
 </a>
+
+<a href="https://github.com/PCrnjak/PAROL6-Desktop-robot-arm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&theme=transparent&cache_bust=12345" />
+</a>
+
