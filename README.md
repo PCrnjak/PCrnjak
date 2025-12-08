@@ -26,11 +26,12 @@ Forum: [Join](https://forum.source-robotics.com/)<br>
 <a href="https://www.linkedin.com/company/source-robotics/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a>
 
 <a href="https://github.com/PCrnjak/PAROL6-Desktop-robot-arm">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&bg_color=00000000&title_color=b8b4b4&text_color=b8b4b4" />
 </a>
 
+
 <a href="https://github.com/PCrnjak/PAROL6-Desktop-robot-arm">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&bg_color=00000000&title_color=b8b4b4&text_color=b8b4b4" />
 </a>
 
 
