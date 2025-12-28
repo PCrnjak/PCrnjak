@@ -30,8 +30,8 @@ Forum: [Join](https://forum.source-robotics.com/)<br>
 </a>
 
 
-<a href="https://github.com/PCrnjak/PAROL6-Desktop-robot-arm">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PCrnjak&repo=PAROL6-Desktop-robot-arm&bg_color=00000000&title_color=b8b4b4&text_color=b8b4b4" />
+<a href="https://github.com/PCrnjak/MSG-compliant-AI-stepper-gripper">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PCrnjak&repo=MSG-compliant-AI-stepper-gripper&bg_color=00000000&title_color=b8b4b4&text_color=b8b4b4" />
 </a>
 
 
