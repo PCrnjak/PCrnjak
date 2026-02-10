@@ -3,7 +3,12 @@
 Our main mission is to bridge the gap between robotic education, research, and industry with accessible and open-source solutions.<br>
 We accomplish this by developing high-performance robotics hardware such as robotic arms, motor controllers, and grippers. 
 
-Our main products are the [Spectral Micro BLDC controller](https://source-robotics.com/products/spectral-micro-bldc-controller), the [PAROL6 control board](https://source-robotics.com/products/parol6-control-board), and the [SSG-48 adaptive electric gripper](https://source-robotics.com/products/compliant-gripper).
+## Our Main Products
+
+| Motor drivers | Robotic arms | Electric grippers |
+|--------------------|---------------------|------------------------|
+| [![Spectral](https://img.shields.io/badge/Spectral-Micro%20BLDC-white)](https://source-robotics.com/products/spectral-micro-bldc-controller) | [![PAROL6](https://img.shields.io/badge/PAROL6-Control%20Board-white)](https://source-robotics.com/products/parol6-control-board) | [![SSG-48](https://img.shields.io/badge/SSG--48-Adaptive%20Gripper-white)](https://source-robotics.com/products/compliant-gripper) |
+
 
 Browse around our GitHub where all code we use and produce is **Open-Source**.
 
