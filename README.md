@@ -6,8 +6,9 @@ We accomplish this by developing high-performance robotics hardware such as robo
 ## Our Main Products
 
 | Motor drivers | Robotic arms | Electric grippers |
-|--------------------|---------------------|------------------------|
-| [![Spectral](https://img.shields.io/badge/Spectral-Micro%20BLDC-white)](https://source-robotics.com/products/spectral-micro-bldc-controller) | [![PAROL6](https://img.shields.io/badge/PAROL6-Control%20Board-white)](https://source-robotics.com/products/parol6-control-board) | [![SSG-48](https://img.shields.io/badge/SSG--48-Adaptive%20Gripper-white)](https://source-robotics.com/products/compliant-gripper) |
+|--------------|--------------|-------------------|
+| [Spectral Micro BLDC](https://source-robotics.com/products/spectral-micro-bldc-controller) | [PAROL6](https://source-robotics.com/products/parol6-control-board) | [SSG-48 Gripper](https://source-robotics.com/products/compliant-gripper) |
+
 
 
 Browse around our GitHub where all code we use and produce is **Open-Source**.
