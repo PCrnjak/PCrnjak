@@ -8,8 +8,7 @@ We accomplish this by developing high-performance robotics hardware such as robo
 | Motor drivers | Robotic arms | Electric grippers |
 |--------------|--------------|-------------------|
 | [Spectral Micro BLDC](https://source-robotics.com/products/spectral-micro-bldc-controller) | [PAROL6](https://source-robotics.com/products/parol6-control-board) | [SSG-48 Gripper](https://source-robotics.com/products/compliant-gripper) |
-
-
+|[STEPFOC stepper driver](https://github.com/PCrnjak/STEPFOC-stepper-controller)||[MSG Gripper](https://github.com/PCrnjak/MSG-compliant-AI-stepper-gripper)|
 
 Browse around our GitHub where all code we use and produce is **Open-Source**.
 
